@@ -1,0 +1,10 @@
+{
+  "name": "openui5-quickstart",
+  "version": "1.0.0",
+  "description": "OpenUI5 Quickstart",
+  "main": "src/index.html",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
+]
